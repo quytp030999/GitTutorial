@@ -1,1 +1,1 @@
-console.log("product model");
+console.log("update product model");
