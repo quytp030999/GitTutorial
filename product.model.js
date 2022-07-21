@@ -1,1 +1,1 @@
-console.log("update product model");
+console.log("update product model. that's ok");
